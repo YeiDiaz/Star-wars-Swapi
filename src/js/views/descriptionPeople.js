@@ -17,7 +17,7 @@ export const DescriptionPeople = () => {
 					<Col xs={6} md={5}>
 						<Image
 							className=" w-100 h-100"
-							src="https://images.unsplash.com/photo-1518331647614-7a1f04cd34cf?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1049&q=80"
+							src="https://c4.wallpaperflare.com/wallpaper/1019/900/879/star-wars-george-lucas-illustration-movie-characters-movie-poster-hd-wallpaper-thumb.jpg"
 							style={{
 								width: "100px",
 								height: "100px",

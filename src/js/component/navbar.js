@@ -27,19 +27,13 @@ export const Menu = () => {
 								<Dropdown.Item eventKey={i} key={i} onClick={() => actions.deleteFavorite(i)}>
 									{favorite.type == "people" ? (
 										<div>
-											<i className="fas fa-id-card">
-												&nbsp;
-												{favorite.name}
-											</i>
+											{favorite.name}
 											&nbsp;&nbsp;&nbsp;
 											<i className="far fa-trash-alt" />
 										</div>
 									) : (
 										<div>
-											<i className="fas fa-globe-americas">
-												&nbsp;
-												{favorite.name}
-											</i>
+											{favorite.name}
 											&nbsp;&nbsp;&nbsp;
 											<i className="far fa-trash-alt" />
 										</div>

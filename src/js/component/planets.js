@@ -17,7 +17,7 @@ export const Planets = props => {
 						<Card style={{ minWidth: "20rem", margin: "15px" }} key={index}>
 							<Card.Img
 								variant="top h-50"
-								src="https://images.unsplash.com/photo-1556988680-40f0449b35e9?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1055&q=80"
+								src="https://static2.cbrimages.com/wordpress/wp-content/uploads/2020/07/star-wars-death-star-earth.jpg"
 							/>
 							<Card.Body>
 								<Card.Title className="text-center">{element.name}</Card.Title>

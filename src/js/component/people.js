@@ -15,10 +15,7 @@ export const People = props => {
 				{props.info.map((element, index) => {
 					return (
 						<Card style={{ minWidth: "20rem", margin: "15px" }} key={index}>
-							<Card.Img
-								variant="top"
-								src="https://images.unsplash.com/photo-1472457847783-3d10540b03d7?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80"
-							/>
+							<Card.Img variant="top" src="https://i.ytimg.com/vi/8B8Jm-yuV_g/maxresdefault.jpg" />
 							<Card.Body>
 								<Card.Title className="text-center">{element.name}</Card.Title>
 								<Card.Text>

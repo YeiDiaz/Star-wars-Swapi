@@ -17,7 +17,7 @@ export const DescriptionPlanets = () => {
 					<Col xs={6} md={5}>
 						<Image
 							className=" w-100 h-100"
-							src="https://images.unsplash.com/photo-1593974751347-9a2e8e9afeb6?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80"
+							src="https://static3.abc.es/media/201201/19/Star_Wars--644x450.jpg"
 							style={{ width: "100px", height: "100px", boxShadow: "8px 6px 15px #9e9e9e" }}
 							rounded
 						/>
